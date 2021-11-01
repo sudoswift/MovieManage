@@ -1,0 +1,56 @@
+<movies>
+<movie>
+ <movnum>0001</movnum>
+ <name>오징어 게임</name>
+ <publisher>넷플릭스</publisher>
+ <runtime>540</runtime>
+ <isBooked>0</isBooked>
+ <userId>0</userId>
+ <userName></userName>
+</movie>
+<movie>
+ <movnum>0002</movnum>
+ <name>마이네임</name>
+ <publisher>넷플릭스</publisher>
+ <runtime>480</runtime>
+ <isBooked>0</isBooked>
+ <userId>0</userId>
+ <userName></userName>
+</movie>
+<movie>
+ <movnum>0003</movnum>
+ <name>인셉션</name>
+ <publisher>(주) 디스테이션</publisher>
+ <runtime>147</runtime>
+ <isBooked>0</isBooked>
+ <userId>0</userId>
+ <userName></userName>
+</movie>
+<movie>
+ <movnum>0004</movnum>
+ <name>히든 피겨스</name>
+ <publisher>(주) 이십세기폭스코리아</publisher>
+ <runtime>127</runtime>
+ <isBooked>0</isBooked>
+ <userId>0</userId>
+ <userName></userName>
+</movie>
+<movie>
+ <movnum>0005</movnum>
+ <name>기생충</name>
+ <publisher>CJ ENM</publisher>
+ <runtime>131</runtime>
+ <isBooked>1</isBooked>
+ <userId>3</userId>
+ <userName>이서현</userName>
+</movie>
+<movie>
+ <movnum>0006</movnum>
+ <name>인턴</name>
+ <publisher>(주) 워너 브라더스 코리아</publisher>
+ <runtime>121</runtime>
+ <isBooked>0</isBooked>
+ <userId>0</userId>
+ <userName></userName>
+</movie>
+</movies>
